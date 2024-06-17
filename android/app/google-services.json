@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589676777097",
+    "project_id": "message-57c7d",
+    "storage_bucket": "message-57c7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589676777097:android:5ea42d997235b5fcacc058",
+        "android_client_info": {
+          "package_name": "com.harshgupta.message"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589676777097-67kir63apjpaum52qj03s1h9umbaa3vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyBXomog5NsWMEpUQmPBpjPKLK06nzt_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589676777097-67kir63apjpaum52qj03s1h9umbaa3vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
